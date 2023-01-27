@@ -1,0 +1,6 @@
+Build:
+g++ <project name> -o <output project name>
+
+
+Run:
+./<output project name>
